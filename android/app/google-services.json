@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "204186642666",
+    "project_id": "medicare-connect-6c0e8",
+    "storage_bucket": "medicare-connect-6c0e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204186642666:android:8ea5f45a2b66c0b46c8f93",
+        "android_client_info": {
+          "package_name": "com.example.medi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl6F6MduIk3w9guS0A-Ji7XhdmUOQ5CkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204186642666:android:cc04fd33c53642ad6c8f93",
+        "android_client_info": {
+          "package_name": "com.example.medicare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl6F6MduIk3w9guS0A-Ji7XhdmUOQ5CkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

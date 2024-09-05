@@ -1,0 +1,236 @@
+{
+  
+   "Mpox": [
+    "Rashes",
+    "Flu-like Symptoms",
+    "Pneumonia",
+    "Encephalitis",
+    "Infections in Eyes"
+  ],
+
+
+
+  "Food Poisoning": [
+    "Nausea",
+    "Vomiting",
+    "Diarrhea",
+    "Abdominal Cramps"
+  ],
+
+
+  "Diabetes Mellitus": [
+    "Increased Thirst",
+    "Frequent Urination",
+    "Extreme Hunger",
+    "Unexplained Weight Loss",
+    "Presence of Ketones in Urine",
+    "Fatigue",
+    "Irritability",
+    "Blurred Vision",
+    "Slow-Healing Sores",
+    "Frequent Infections"
+  ],
+  "Hypertension (High Blood Pressure)": [
+    "Often Asymptomatic",
+    "Risk of Heart Disease",
+    "Risk of Stroke"
+  ],
+
+  "Coronary Artery Disease": [
+    "Chest Pain (Angina)",
+    "Shortness of Breath",
+    "Heart Attack"
+  ],
+  "Gastroesophageal Reflux Disease (GERD)": [
+    "Heartburn",
+    "Regurgitation of Food or Sour Liquid",
+    "Difficulty Swallowing"
+  ],
+  "Malaria": [
+    "Fever",
+    "Chills",
+    "Headache",
+    "Sweats",
+    "Fatigue",
+    "Nausea and Vomiting",
+    "Muscle Pain"
+  ],
+  "Typhoid Fever": [
+    "Fever",
+    "Weakness",
+    "Abdominal Pain",
+    "Headache",
+    "Loss of Appetite",
+    "Rash",
+    "Diarrhea or Constipation"
+  ],
+
+
+  "Hepatitis B": [
+    "Jaundice (Yellowing of Skin and Eyes)",
+    "Fatigue",
+    "Abdominal Pain",
+    "Dark Urine",
+    "Nausea and Vomiting",
+    "Loss of Appetite"
+  ],
+  "Tuberculosis (TB)": [
+    "Persistent Cough",
+    "Chest Pain",
+    "Coughing up Blood",
+    "Fever",
+    "Night Sweats",
+    "Weight Loss",
+    "Fatigue"
+  ],
+  "Cholera": [
+    "Severe Diarrhea",
+    "Vomiting",
+    "Dehydration",
+    "Abdominal Cramps",
+    "Nausea"
+  ],
+  "Dengue Fever": [
+    "High Fever",
+    "Severe Headache",
+    "Pain Behind the Eyes",
+    "Joint and Muscle Pain",
+    "Rash",
+    "Mild Bleeding"
+  ],
+  
+  "Lassa Fever": [
+    "Fever",
+    "Weakness",
+    "Headache",
+    "Sore Throat",
+    "Cough",
+    "Abdominal Pain",
+    "Vomiting"
+  ],
+  "Leptospirosis": [
+    "High Fever",
+    "Headache",
+    "Chills",
+    "Muscle Pain",
+    "Nausea",
+    "Vomiting",
+    "Red Eyes"
+  ],
+  "Schistosomiasis": [
+    "Abdominal Pain",
+    "Diarrhea",
+    "Blood in Urine",
+    "Fever",
+    "Cough",
+    "Fatigue"
+  ],
+  "Onchocerciasis (River Blindness)": [
+    "Severe Itching",
+    "Rash",
+    "Eye Problems",
+    "Vision Loss",
+    "Swollen Lymph Nodes"
+  ],
+  "African Trypanosomiasis (Sleeping Sickness)": [
+    "Fever",
+    "Headache",
+    "Joint Pain",
+    "Itching",
+    "Swollen Lymph Nodes",
+    "Fatigue",
+    "Changes in Sleep Patterns"
+  ],
+  "COVID-19 (Coronavirus Disease)": [
+    "Fever",
+    "Cough",
+    "Shortness of Breath",
+    "Fatigue",
+    "Muscle or Body Aches",
+    "Headache",
+    "New Loss of Taste or Smell",
+    "Sore Throat",
+    "Congestion or Runny Nose",
+    "Nausea or Vomiting",
+    "Diarrhea"
+  ],
+  "Pneumonia": [
+    "Chest Pain",
+    "Cough",
+    "Fever",
+    "Shortness of Breath",
+    "Fatigue",
+    "Nausea",
+    "Vomiting",
+    "Confusion (especially in older adults)",
+    "Sweating and Shaking Chills",
+    "Diarrhea"
+  ],
+  "Bronchitis": [
+    "Cough (often with mucus)",
+    "Fatigue",
+    "Shortness of Breath",
+    "Chest Discomfort",
+    "Slight Fever and Chills",
+    "Wheezing"
+  ],
+  "Sinusitis": [
+    "Facial Pain or Pressure",
+    "Nasal Congestion",
+    "Runny Nose",
+    "Loss of Smell",
+    "Cough",
+    "Fever",
+    "Bad Breath"
+  ],
+  "Allergic Rhinitis": [
+    "Sneezing",
+    "Runny or Stuffy Nose",
+    "Itchy or Watery Eyes",
+    "Itchy Throat or Nose",
+    "Postnasal Drip",
+    "Cough"
+  ],
+  
+  "Asthma": [
+    "Shortness of Breath",
+    "Wheezing",
+    "Coughing (especially at night)",
+    "Chest Tightness",
+    "Difficulty Breathing"
+  ],
+  "Chronic Obstructive Pulmonary Disease (COPD)": [
+    "Chronic Cough",
+    "Shortness of Breath",
+    "Wheezing",
+    "Chest Tightness",
+    "Frequent Respiratory Infections",
+    "Fatigue"
+  ],
+  "Heart Failure": [
+    "Shortness of Breath",
+    "Fatigue",
+    "Swelling in the Legs, Ankles, or Feet",
+    "Rapid or Irregular Heartbeat",
+    "Persistent Cough or Wheezing"
+  ],
+  "Common Cold": [
+    "Sneezing",
+    "Runny Nose",
+    "Congestion",
+    "Sore Throat",
+    "Cough",
+    "Mild Headache",
+    "Mild Fatigue"
+  ],
+  "Influenza (Flu)": [
+    "Fever",
+    "Cough",
+    "Sore Throat",
+    "Runny Nose",
+    "Muscle Aches",
+    "Headache",
+    "Fatigue"
+  ]
+  
+}
