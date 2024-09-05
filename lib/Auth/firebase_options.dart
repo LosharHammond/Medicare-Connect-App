@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCsK4XUFFsqSF5OgGm96EF0pX4Az9KhK9c',
+    apiKey: '#',
     appId: '1:204186642666:web:a51113e1b38874296c8f93',
     messagingSenderId: '204186642666',
     projectId: 'medicare-connect-6c0e8',
@@ -66,7 +66,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCl6F6MduIk3w9guS0A-Ji7XhdmUOQ5CkQ',
+    apiKey: '#',
     appId: '1:204186642666:android:cc04fd33c53642ad6c8f93',
     messagingSenderId: '204186642666',
     projectId: 'medicare-connect-6c0e8',
